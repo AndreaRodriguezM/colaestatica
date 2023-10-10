@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1696917859 source:c:\users\admin\desktop\colaestatica\main.cpp
+	<iostream>
+	"Cola.h"
+	<locale>
+
+1696917493 c:\users\admin\desktop\colaestatica\cola.h
+	<iostream>
+
